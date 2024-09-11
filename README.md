@@ -1,4 +1,4 @@
- *Descontraído para sua Aplicação de Busca de Atletas**
+**Desvendando Atletas - Imersão Dev - Google Gemini**
 
  **O que faz essa aplicação?**
 
